@@ -22,9 +22,8 @@ This project involves web scraping and data analysis of the top 250 movies liste
    git clone https://github.com/MarkJiradet/imdb-250-analysis.git
    cd imdb-250-analysis
    ```
-   
 2. Install the required libraries:
-  ```bash
+   ```bash
    pip install -r requirements.txt
    ```
 3. Run the main script to scrape and analyze:
