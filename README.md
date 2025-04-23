@@ -30,3 +30,4 @@ This project involves web scraping and data analysis of the top 250 movies liste
    ```bash
    Project_Group9_Section1.ipynb
    ```
+4. Run the code on Google Colab
