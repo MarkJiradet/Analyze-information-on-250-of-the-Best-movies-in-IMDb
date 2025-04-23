@@ -19,7 +19,7 @@ This project involves web scraping and data analysis of the top 250 movies liste
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/MarkJiradet/imdb-250-analysis.git
+   git clone https://github.com/MarkJiradet/Analyze-information-on-250-of-the-Best-movies-in-IMDb.git
    cd imdb-250-analysis
    ```
 2. Install the required libraries:
